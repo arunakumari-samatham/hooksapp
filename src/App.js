@@ -9,6 +9,9 @@ function App() {
     <h1>Hovercounter</h1>
     <h1>DataFetching</h1>
     <h1>DataFetchingTwo</h1>
+    <h1>CounterOne </h1>
+    <h1>CounterTwo</h1>
+    <h1>CounterThree</h1>
     </div>
   );
 }
