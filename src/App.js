@@ -1,18 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Counter1 from './customhooks/functonality/Counter1';
+import Counter2 from './customhooks/functonality/Counter2';
+import useCounter from './customhooks/functonality/useCounter';
 
 function App() {
   return (
     <div className="App">
-    <h1>ClickCounter</h1>
-    <h1>Hovercounter</h1>
-    <h1>DataFetching</h1>
-    <h1>DataFetchingTwo</h1>
-    <h1>CounterOne </h1>
-    <h1>CounterTwo</h1>
-    <h1>CounterThree</h1>
-    </div>
+      <h1>Counter1</h1>
+      <h1>Counter2</h1>
+      <h1>useCounter</h1>
+      </div>
   );
 }
 
